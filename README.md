@@ -31,4 +31,4 @@ If you are playing on linux you obviously need "python3".
 2) Type the command --> python3 ./main.py
 3) Play the game! :)
 
-![alt text](https://github.com/sthivaios/knaglocator/blob/main/knag.jpg?raw=true)
+![Knag](https://github.com/sthivaios/knaglocator/blob/main/knag.JPG)
