@@ -2,7 +2,7 @@
 
 Knag Locator official opensource game.
 
-
+--------------------------------------------
 
 This is a small python game to play when you are bored.
 
