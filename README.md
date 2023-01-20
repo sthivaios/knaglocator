@@ -30,3 +30,5 @@ If you are playing on linux you obviously need "python3".
 1) Go to the directory where the main.py file is.
 2) Type the command --> python3 ./main.py
 3) Play the game! :)
+
+![Picture of Knag!](http://url/to/img.png](https://raw.githubusercontent.com/sthivaios/knaglocator/main/knag.JPG)
